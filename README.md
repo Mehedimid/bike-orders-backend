@@ -26,7 +26,7 @@ A backend application for managing bikes and orders, built with **Express**, **T
 
 ### 1. Clone the Repository
 
-```bash
+
 git clone <repository-url>
 cd bike-orders-backend
 
@@ -106,7 +106,7 @@ Replace `<PORT>` with the port number specified in your `.env` file (default: `5
       "description": "A lightweight road bike"
     }
   ]
-  ```
+
 
 ---
 
