@@ -30,10 +30,6 @@ A backend application for managing bikes and orders, built with **Express**, **T
 git clone <repository-url>
 cd bike-orders-backend
 
-
-
-Here's a detailed `API_ENDPOINTS.md` file:
-
 ---
 
 # **API Endpoints Documentation**
